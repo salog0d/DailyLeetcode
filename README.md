@@ -1,7 +1,7 @@
 # Daily LeetCode Challenge 
 
 ## Overview
-Welcome to the **Daily LeetCode Challenge! This initiative is designed to help sharpen your problem-solving skills by tackling one LeetCode problem daily using **C++**. By the end of this challenge, you'll have strengthened your understanding of data structures, algorithms, and programming fundamentals.
+Welcome to the Daily LeetCode Challenge! This initiative is designed to help sharpen your problem-solving skills by tackling one LeetCode problem daily using **C++**. By the end of this challenge, you'll have strengthened your understanding of data structures, algorithms, and programming fundamentals.
 
 ## Goals
 My personal goal for this challenge is:
