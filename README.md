@@ -61,6 +61,7 @@ If you wish to follow along or solve these problems with me:
 1. Create a free account on [LeetCode](https://leetcode.com/).
 2. Attempt each day's problem before checking out the solution.
 3. Engage with my Instagram posts (@DailyCPPLeetCode) by commenting your approach, questions, or alternative solutions.
+4. Feel free to contribute to this repository with different approches or findings in the problems.
 
 ## Acknowledgments
 This challenge is part of my personal growth journey to improve problem-solving skills, and I hope it inspires others to join the fun. Let's grow together! 🚀
