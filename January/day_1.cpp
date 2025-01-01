@@ -70,12 +70,12 @@ vector<int> twoSum3(vector<int>& nums, int target) {
       return {}; // No solution found
 }
 
-// Declaraciones de las soluciones
+
 vector<int> twoSum(vector<int>& nums, int target);
 vector<int> twoSum2(vector<int>& nums, int target);
 vector<int> twoSum3(vector<int>& nums, int target);
 
-// Función para imprimir resultados
+
 void printResult(const vector<int>& result) {
     if (!result.empty()) {
         cout << "Indices: [" << result[0] << ", " << result[1] << "]" << endl;
@@ -85,7 +85,7 @@ void printResult(const vector<int>& result) {
 }
 
 int main() {
-    // Datos de prueba
+    
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
 
