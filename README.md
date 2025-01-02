@@ -5,7 +5,7 @@ Welcome to the Daily LeetCode Challenge! This initiative is designed to help sha
 
 ## Goals
 My personal goal for this challenge is:
-- To solve one problem daily and share the solution on Instagram (@DailyCPPLeetCode).
+- To solve one problem daily and share the solution on Instagram (@code1aday).
 - To document the thought process, provide concise explanations, and inspire others to start their coding journey.
 - To improve problem-solving speed and accuracy in preparation for competitive programming and technical interviews.
 
@@ -60,7 +60,7 @@ Below is the complete schedule for the month:
 If you wish to follow along or solve these problems with me:
 1. Create a free account on [LeetCode](https://leetcode.com/).
 2. Attempt each day's problem before checking out the solution.
-3. Engage with my Instagram posts (@DailyCPPLeetCode) by commenting your approach, questions, or alternative solutions.
+3. Engage with my Instagram posts (@code1aday) by commenting your approach, questions, or alternative solutions.
 4. Feel free to contribute to this repository with different approches or findings in the problems.
 
 ## Acknowledgments
